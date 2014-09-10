@@ -1,4 +1,4 @@
-title:            Notepad
+title:            Me4ta.me/blog
 description:      "Helen's blog 8"
 logo:             logo.png
 disqus_shortname: me4tame
@@ -11,21 +11,21 @@ url:        	  "/blog"
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  name:           Helen Akimova
+  avatar:         avatar.png
+  email:          me4ta18@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Awesome Dude, Awesome Life
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
+  twitter:        Me4ta18
+  facebook:       
+  github:         Me4ta      
+  instagram:      me4ta_me
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
+google_analytics:   
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -45,11 +45,11 @@ links:
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    Canada/Pacific
 future:      true
 highlighter: pygments
 markdown:    kramdown
-paginate:    5
+paginate:    10
 paginate_path: "page:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
@@ -71,8 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  siteurl: 'http://me4ta.me/blog/'
+  relativeLinks: 'http://me4ta.me/blog/links.jsonp'
   media: 'images'
   metadata:
     _posts:
