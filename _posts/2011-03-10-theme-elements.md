@@ -10,6 +10,10 @@ comments: true
 share: true
 ---
 
+Пример русского языка. Я обычно немного на нём пишу, ой хотя кого я обманываю.
+
+Все посты, на самом деле будут на русском =)
+
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
 # Heading 1
