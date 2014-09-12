@@ -28,3 +28,5 @@ If that still doesn’t convince you to at least give it a try, I’d like to en
 **Heck, it’s that good** — I even wrote all of the guides for the theme documentation with it!
 
 Enjoy!
+
+Очень хочется потестить, а что писать - пока в голову не идет...
