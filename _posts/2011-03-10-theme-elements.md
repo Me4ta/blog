@@ -39,7 +39,7 @@ HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a a
 
 ### Blockquotes
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+> "Полноэкранные цитаты, как на medium.com." -- Restuta
 
 ## List Types
 
