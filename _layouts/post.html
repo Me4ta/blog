@@ -2,17 +2,20 @@
 <html>
 <!--
 ====================================================
-    __  ____  ______________  _______ ___    __ 
-   / / / /  |/  / ____/   \ \/ / ___//   |  / / 
-  / /_/ / /|_/ / /_  / /| |\  /\__ \/ /| | / /  
- / __  / /  / / __/ / ___ |/ /___/ / ___ |/ /___
-/_/ /_/_/  /_/_/   /_/  |_/_//____/_/  |_/_____/
+           ,%%%,
+       --==% `%%%,
+           |' )`%%,
+           \_/\ @%%,
+            __@@" %%%--"""-.%,
+          /`__|             \%%
+          \\  \   /   |     /'%,
+           \]  | /----'.   < `%,
+               ||       `>> >
+               ||       ///`
+               /(      //(
                                                      
 ====================================================
-Author: Hossain Mohammad Faysal
-Profile: https://www.facebook.com/hmfaysal
-Version: 1.0
-Description: Awesome dude, awesome life
+Owner Name: Helen Akimova
 ====================================================
 -->
 <head>
@@ -79,22 +82,20 @@ Description: Awesome dude, awesome life
             <div>{{ content }}
             </div>
         </article>
-        <div class="cf"></div>
-{% if site.share %}{% include share.html %}{% endif %}
-        <div class="cf"></div>
-        
-{% include signoff.html %} 
-        
-        <div class="cf"></div>
-        {% if site.disqus_shortname and page.comments == true %}
-        <section class="notepad-disqus row">
-    <div class="small-12 columns">
+    <div class="cf"></div>
+{% if page.share == true %}{% include share.html %}{% endif %}
+    <div class="cf"></div>
+{% if site.disqus_shortname and page.comments == true %}
+    <section class="notepad-disqus row">
+        <div class="small-12 columns">
         <h1 class="notepad-comments-header">Comments</h1>
         <div id="disqus_thread"></div>
         {% include disqus_comments.html %}
     </div>
-</section>
+    </section>
 {% endif %}
+    <div class="cf"></div>        
+{% if page.about == true %}{% include signoff.html %}{% endif %}    
         <div class="cf"></div>
 
     {% include footer.html %} 
