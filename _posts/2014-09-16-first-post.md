@@ -4,7 +4,7 @@ title: "Мой первый пост"
 description: 
 headline: 
 modified: 2014-09-16
-category: webdevelopment
+category: Личное
 tags: [jekyll]
 imagefeature: 
 mathjax: 
