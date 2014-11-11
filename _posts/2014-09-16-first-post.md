@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Мой первый пост"
+title: "Первый пост"
 description: 
 headline: 
 modified: 2014-10-29
