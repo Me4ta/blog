@@ -14,7 +14,9 @@ body {
   line-height: 1; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat", sans-serif; }
+  font-family: "Lucida Grande", "Montserrat", sans-serif; 
+  letter-spacing: -0.02em;
+}
 
 .notepad-parallax-background {
   position: fixed;
@@ -194,17 +196,11 @@ main, .notepad-share-icons, .notepad-disqus {
       font-size: 4.375rem;
       font-weight: 700; } }
   @media only screen and (min-width: 90em) {
-    .notepad-site-head .notepad-site-head-content h1 {
-      padding-top: 10.3125rem; }
     .notepad-site-head .notepad-site-head-content h2 {
-      font-size: 3rem; 
-      padding-bottom: 10.3125rem; } }
+      font-size: 5rem;  } }
   @media only screen and (min-width: 100em) {
-    .notepad-site-head .notepad-site-head-content h1 {
-      padding-top: 12.5rem; }
     .notepad-site-head .notepad-site-head-content h2 {
-      font-size: 6.25rem;
-      padding-bottom: 12.5rem; } }
+      font-size: 6.25rem; } }
 
 .notepad-content .notepad-index-post {
   visibility: hidden;
@@ -240,7 +236,6 @@ main, .notepad-share-icons, .notepad-disqus {
   .notepad-content .notepad-index-post .notepad-post-header .notepad-post-title {
     color: black;
     font-weight: 700;
-    text-transform: uppercase;
     text-align: center;
     font-size: 1.625rem;
     margin: 0;
