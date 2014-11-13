@@ -6,7 +6,7 @@ headline:
 modified: 2014-10-29
 category: personal
 tags: [жизнь, личное]
-imagefeature: 
+imagefeature: cover1.jpg
 comments: true
 featured: true
 share: false
