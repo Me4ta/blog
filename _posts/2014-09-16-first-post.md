@@ -6,7 +6,7 @@ headline:
 modified: 2014-10-29
 category: personal
 tags: [жизнь, личное]
-imagefeature: 2014-09-11_cover_pic.jpg
+imagefeature: first_post/three-of-us.jpg
 comments: true
 featured: true
 share: false
