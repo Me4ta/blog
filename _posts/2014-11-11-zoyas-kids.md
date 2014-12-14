@@ -18,8 +18,28 @@ about: true
 
 А дети у Зоеньки и правда очень забавные.
 
+<div class="row">
+    <div class="small-12 medium-6 columns">
+        <p>1
+        <img src="{{ site.url }}/images/zoyas_kids/IMG_4050.jpg" alt="Laptop"></p>
+    </div>
+    <div class="small-12 medium-6 columns">
+        <p> 2 </p>
+        <img src="{{ site.url }}/images/zoyas_kids/IMG_4051.jpg" alt="Laptop">
+    </div>
+</div>
 
-![Laptop]({{ site.url }}/images/zoyas_kids/IMG_4050.jpg)![Laptop]({{ site.url }}/images/zoyas_kids/IMG_4051.jpg)
+
+<div class="row">
+    <div class="small-12 medium-6 columns">
+        <p> 3 </p>
+        <img src="{{ site.url }}/images/zoyas_kids/IMG_4052.jpg" alt="Laptop">
+    </div>
+    <div class="small-12 medium-6 columns">
+        <p> 4 </p>
+        <img src="{{ site.url }}/images/zoyas_kids/IMG_4053.jpg" alt="Laptop">
+    </div>
+</div>
 
 
    
