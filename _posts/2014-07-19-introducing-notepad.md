@@ -32,10 +32,10 @@ You can use Foundation Grid, but you need to write html in Ghost markdown editor
 Example - two columns:
 
 <div class="row">
-    <div class="small-12 medium-6 columns">
+    <div class="small-6 medium-6 columns">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo blanditiis pariatur, odio amet voluptas fugiat veniam quos ratione unde aperiam, aspernatur, dolores tempore nam. Vitae facere ipsum soluta architecto quisquam doloremque facilis commodi debitis atque, porro nesciunt modi reiciendis natus beatae aperiam cupiditate expedita eum, doloribus, obcaecati excepturi autem! Perferendis quam, deserunt illum ipsa repellendus nesciunt eum qui repellat est possimus natus quod ducimus excepturi fugit, tempore, dolores maiores esse?</p>
     </div>
-    <div class="small-12 medium-6 columns">
+    <div class="small-6 medium-6 columns">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo blanditiis pariatur, odio amet voluptas fugiat veniam quos ratione unde aperiam, aspernatur, dolores tempore nam. Vitae facere ipsum soluta architecto quisquam doloremque facilis commodi debitis atque, porro nesciunt modi reiciendis natus beatae aperiam cupiditate expedita eum, doloribus, obcaecati excepturi autem! Perferendis quam, deserunt illum ipsa repellendus nesciunt eum qui repellat est possimus natus quod ducimus excepturi fugit, tempore, dolores maiores esse?</p>
     </div>
 </div>
