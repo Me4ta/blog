@@ -26,55 +26,55 @@ about: true
 
 <div class="row with-padding">
     <div class="small-12 medium-6 columns">
-        <img src="{{ site.url }}/images/zoyas_kids/IMG_4050.jpg" alt="Laptop">
+        <img src="{{ site.url }}/images/zoyas_kids/IMG_4050.JPG" alt="Laptop">
     </div>
     <div class="small-12 medium-6 columns">
-        <img src="{{ site.url }}/images/zoyas_kids/IMG_4051.jpg" alt="Laptop">
-    </div>
-</div>
-<div class="row with-padding">
-    <div class="small-12 medium-6 columns">
-        <img src="{{ site.url }}/images/zoyas_kids/IMG_4052.jpg" alt="Laptop">
-    </div>
-    <div class="small-12 medium-6 columns">
-        <img src="{{ site.url }}/images/zoyas_kids/IMG_4053.jpg" alt="Laptop">
+        <img src="{{ site.url }}/images/zoyas_kids/IMG_4051.JPG" alt="Laptop">
     </div>
 </div>
 <div class="row with-padding">
     <div class="small-12 medium-6 columns">
-        <img src="{{ site.url }}/images/zoyas_kids/IMG_4054.jpg" alt="Laptop">
+        <img src="{{ site.url }}/images/zoyas_kids/IMG_4052.JPG" alt="Laptop">
     </div>
     <div class="small-12 medium-6 columns">
-        <img src="{{ site.url }}/images/zoyas_kids/IMG_4055.jpg" alt="Laptop">
-    </div>
-</div>
-<div class="row with-padding">
-    <div class="small-12 medium-6 columns">
-        <img src="{{ site.url }}/images/zoyas_kids/IMG_4056.jpg" alt="Laptop">
-    </div>
-    <div class="small-12 medium-6 columns">
-        <img src="{{ site.url }}/images/zoyas_kids/IMG_4057.jpg" alt="Laptop">
+        <img src="{{ site.url }}/images/zoyas_kids/IMG_4053.JPG" alt="Laptop">
     </div>
 </div>
 <div class="row with-padding">
     <div class="small-12 medium-6 columns">
-        <img src="{{ site.url }}/images/zoyas_kids/IMG_4058.jpg" alt="Laptop">
+        <img src="{{ site.url }}/images/zoyas_kids/IMG_4054.JPG" alt="Laptop">
     </div>
     <div class="small-12 medium-6 columns">
-        <img src="{{ site.url }}/images/zoyas_kids/IMG_4059.jpg" alt="Laptop">
-    </div>
-</div>
-<div class="row with-padding">
-    <div class="small-12 medium-6 columns">
-        <img src="{{ site.url }}/images/zoyas_kids/IMG_4062.jpg" alt="Laptop">
-    </div>
-    <div class="small-12 medium-6 columns">
-        <img src="{{ site.url }}/images/zoyas_kids/IMG_4063.jpg" alt="Laptop">
+        <img src="{{ site.url }}/images/zoyas_kids/IMG_4055.JPG" alt="Laptop">
     </div>
 </div>
 <div class="row with-padding">
     <div class="small-12 medium-6 columns">
-        <img src="{{ site.url }}/images/zoyas_kids/IMG_4064.jpg" alt="Laptop">
+        <img src="{{ site.url }}/images/zoyas_kids/IMG_4056.JPG" alt="Laptop">
+    </div>
+    <div class="small-12 medium-6 columns">
+        <img src="{{ site.url }}/images/zoyas_kids/IMG_4057.JPG" alt="Laptop">
+    </div>
+</div>
+<div class="row with-padding">
+    <div class="small-12 medium-6 columns">
+        <img src="{{ site.url }}/images/zoyas_kids/IMG_4058.JPG" alt="Laptop">
+    </div>
+    <div class="small-12 medium-6 columns">
+        <img src="{{ site.url }}/images/zoyas_kids/IMG_4059.JPG" alt="Laptop">
+    </div>
+</div>
+<div class="row with-padding">
+    <div class="small-12 medium-6 columns">
+        <img src="{{ site.url }}/images/zoyas_kids/IMG_4062.JPG" alt="Laptop">
+    </div>
+    <div class="small-12 medium-6 columns">
+        <img src="{{ site.url }}/images/zoyas_kids/IMG_4063.JPG" alt="Laptop">
+    </div>
+</div>
+<div class="row with-padding">
+    <div class="small-12 medium-6 columns">
+        <img src="{{ site.url }}/images/zoyas_kids/IMG_4064.JPG" alt="Laptop">
     </div>
     <div class="small-12 medium-6 columns">
         <p>Кое-как откопала Зоин ответ в чате на этот комикс (вот мы трынделки):</p>
