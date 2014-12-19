@@ -33,5 +33,5 @@ I am the woman that [Restuta](http://twitter.com/Restuta) loves. This should spe
 
 <figure>
 	<img src="https://c4.staticflickr.com/4/3825/13451233273_da41d7eabb_n.jpg" alt="Myself drinking">
-	<figcaption>I love to dink, and drink a lot. What's wrong with this?</figcaption>
+	<figcaption>I love wine. What's wrong with this?</figcaption>
 </figure>
