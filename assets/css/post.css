@@ -545,7 +545,6 @@ iframe {
 
 .notepad-disqus {
   padding: 0;
-  padding-top: 3.75rem;
   padding-bottom: 5.625rem;
   padding-left: 1.875rem;
   padding-right: 1.875rem; }
@@ -554,7 +553,6 @@ iframe {
     text-transform: uppercase; }
   @media only screen and (min-width: 40.063em) {
     .notepad-disqus {
-      padding-top: 5.3125rem;
       padding-bottom: 9.375rem; } }
 .post-list {
     padding: 0;
