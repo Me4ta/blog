@@ -70,3 +70,53 @@ about: true
 
 Привет! Я самый последний посланник из космоса. Твоя история почти построена, осталось совсем немного и ты получишь вознаграждение за свои труды. Но теперь важно реализовать самое главное - полет! Тебе нужно разместить Марс высоко в воздухе, но он не должен касаться предметов или быть подвешенным. Когда ПушИн взлетит на него, обязательно сделай финальное счастливое фото как он смотрит с Марса на далекую землю. Удачи тебе и помни - все возможно, главное идти к своим мечтам!
 
+**Поздравления:**
+
+1. Сережка
+ 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/sSsvkkJ2mtA" frameborder="0" allowfullscreen></iframe>
+
+2. Жека и Настя
+ 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/HaMa_rMpphE" frameborder="0" allowfullscreen></iframe>
+
+3. Светик
+ 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/kCKpN5MyHkQ" frameborder="0" allowfullscreen></iframe>
+
+4. Мовчанахи
+ 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/ydb1wHmFURU" frameborder="0" allowfullscreen></iframe>
+
+5. Томичи 
+
+<iframe width="960" height="720" src="https://www.youtube.com/embed/IzTY0bVLCyE" frameborder="0" allowfullscreen></iframe>
+
+6. Акила 
+
+<iframe width="960" height="720" src="https://www.youtube.com/embed/-hBMIOVqPbk" frameborder="0" allowfullscreen></iframe>
+
+7. Туча и Вита
+
+<iframe width="960" height="720" src="https://www.youtube.com/embed/BwOsRoSsxFs" frameborder="0" allowfullscreen></iframe>
+
+8. Ксю и Лиза
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/O_KpWLa6fKI" frameborder="0" allowfullscreen></iframe>
+
+9. Мои родители
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/T-Cx_hcXaio" frameborder="0" allowfullscreen></iframe>
+
+10. Люба и Дима 
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/QRdCrOFEWKQ" frameborder="0" allowfullscreen></iframe>
+
+
+Ну, и еще пара смешных моментов, как это снималось:
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/HqQZ5UYQDeM" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/8UWDFTEJg_c" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="960" height="720" src="https://www.youtube.com/embed/m9EG-w-5H5E" frameborder="0" allowfullscreen></iframe>
