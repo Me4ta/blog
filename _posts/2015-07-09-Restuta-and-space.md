@@ -6,7 +6,7 @@ headline:
 modified: 2015-07-09
 category: personal
 tags: [жизнь, личное, праздник]
-imagefeature:
+imagefeature: crazy.jpg
 comments: true
 featured: true
 share: false
