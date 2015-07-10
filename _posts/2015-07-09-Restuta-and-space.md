@@ -118,7 +118,7 @@ about: true
 
 <iframe width="960" height="720" src="https://www.youtube.com/embed/m9EG-w-5H5E" frameborder="0" allowfullscreen></iframe>
 
-Итог фотоистории пока в [инстаграме Restuta] (http://instagram.com/restuta)
+Итог фотоистории пока в [инстаграме Restuta](http://instagram.com/restuta)
 
 И вот как проходило это сумасшествие:
 
