@@ -17,7 +17,6 @@ about: true
 Совершенно неожиданно, но ты не только совершишь чудо, а еще и создашь свою фотоисторию об этом. Приготовься делать фотографию после каждого задания и подробно интересно комментировать ее.
 В первую очередь тебе нужно догадаться кто станет главным твоим помощником сегодняшнего дня, твоим спутником и тем, кто на самом деле является самым счастливым существом на свете. Это твое нулевое задание.
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/-ncbGsECtl4" frameborder="0" allowfullscreen></iframe>
 
 Привет! Ты наверное очень умный, раз так быстро догадался, что это кот. Мы самые металлические посланники из космоса. И предлагаем тебе поскорее найти его. Он лежит в чем-то, что ни большое, ни маленькое, ни мягкое ни твердое, ни чистое ни грязное, ни свое ни чужое, ни открытое ни закрытое. Трудно? Ну, зато ты очень обрадуешься, когда его найдешь. Приключение только начинается!
 
@@ -72,45 +71,43 @@ about: true
 
 **Поздравления:**
 
-1. Сережка
+Сережка
  
 <iframe width="853" height="480" src="https://www.youtube.com/embed/sSsvkkJ2mtA" frameborder="0" allowfullscreen></iframe>
 
-2. Жека и Настя
+Жека и Настя
  
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/HaMa_rMpphE" frameborder="0" allowfullscreen></iframe>
 
-3. Светик
+Светик и Даша
  
 <iframe width="853" height="480" src="https://www.youtube.com/embed/kCKpN5MyHkQ" frameborder="0" allowfullscreen></iframe>
 
-4. Мовчанахи
+Мовчанахи
  
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/ydb1wHmFURU" frameborder="0" allowfullscreen></iframe>
 
-5. Томичи 
+Томичи 
 
 <iframe width="960" height="720" src="https://www.youtube.com/embed/IzTY0bVLCyE" frameborder="0" allowfullscreen></iframe>
 
-6. Акила 
+Акила 
 
 <iframe width="960" height="720" src="https://www.youtube.com/embed/-hBMIOVqPbk" frameborder="0" allowfullscreen></iframe>
 
-7. Туча и Вита
+Туча и Вита
 
 <iframe width="960" height="720" src="https://www.youtube.com/embed/BwOsRoSsxFs" frameborder="0" allowfullscreen></iframe>
 
-8. Ксю и Лиза
+Ксю и Лиза
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/O_KpWLa6fKI" frameborder="0" allowfullscreen></iframe>
 
-9. Мои родители
+Мои папа и Лиза
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/T-Cx_hcXaio" frameborder="0" allowfullscreen></iframe>
 
-10. Люба и Дима 
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/QRdCrOFEWKQ" frameborder="0" allowfullscreen></iframe>
 
 
 Ну, и еще пара смешных моментов, как это снималось:
@@ -120,3 +117,10 @@ about: true
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/8UWDFTEJg_c" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="960" height="720" src="https://www.youtube.com/embed/m9EG-w-5H5E" frameborder="0" allowfullscreen></iframe>
+
+Итог фотоистории пока в [инстаграме Restuta] (http://instagram.com/restuta)
+
+И вот как проходило это сумасшествие:
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/L0PqpGrtBjw" frameborder="0" allowfullscreen></iframe>
+
