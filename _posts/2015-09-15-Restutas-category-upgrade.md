@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Поздравление Рестуте с получением 3 категории в велоспорте"
-description: 
-headline: 
+description:
+headline:
 modified: 2015-09-15
 category: personal
 tags: [жизнь, личное, вел, cycling]
@@ -21,10 +21,9 @@ about: true
     }
 </style>
 
-<div class="row with-padding">
-    <img src="{{ site.url }}/images/restuta_cat_upgr/upgrade4cat_restuta.JPEG" alt="Laptop">
+<div class="row with-padding text-center">
+    <img src="{{ site.url }}/images/restuta_cat_upgr/upgrade4cat_restuta.jpeg" alt="Laptop">
 </div>
-
 
 Я брожу по дороге лениво,<br />
 В даль туманнную нежно смотрю,<br />
@@ -55,8 +54,3 @@ about: true
 В этом спорте для сильных мужчин.<br />
 Поздравляю! И знай - веселуха<br />
 Ждет тебя, покоритель вершин!
-
-
-
-
-
