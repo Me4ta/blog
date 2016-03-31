@@ -3,7 +3,7 @@ layout: post
 title: "Как полюбить рутину"
 description:
 headline:
-modified: 2014-12-27
+modified: 2015-12-27
 category: personal
 tags: [жизнь, личное, работа, отпуск]
 imagefeature:
