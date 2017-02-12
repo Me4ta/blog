@@ -13,9 +13,9 @@
                ||       `>> >
                ||       ///`
                /(      //(
-                                                     
+
 ====================================================
-Owner Name: Helen Akimova, post template
+Owner Name: Helen Vynogradenko, post template
 ====================================================
 -->
 <head>
@@ -24,11 +24,11 @@ Owner Name: Helen Akimova, post template
 <body class="post-template page" itemscope itemtype="http://schema.org/WebPage">
 
 <main id="notepad-page-container" class="notepad-page-container" role="main">
-    
-    
+
+
         <header class="notepad-page-header">
             <div class="notepad-page-menu-header">
-                <div class="notepad-blog-menu">      
+                <div class="notepad-blog-menu">
     <div class="notepad-mobile-menu show-for-small">
         <a href="#"><i class="fa fa-bars"></i></a>
     </div>
@@ -42,7 +42,7 @@ Owner Name: Helen Akimova, post template
                 {% else %}
                     <a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
                 {% endif %} </li>
-{% endfor %}            
+{% endfor %}
            <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
     </ul>
 </div>
@@ -61,6 +61,6 @@ Owner Name: Helen Akimova, post template
     {% include footer.html %}
 </main>
 
-{% include scripts.html %}  
+{% include scripts.html %}
 </body>
 </html>
